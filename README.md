@@ -50,5 +50,5 @@ This project currently provides 2 APIs to handle "post" resource, each with diff
 
 5. Run the Spring application with Gradle to play with APIs.
    ```sh
-   $ ./gradle bootRun
+   $ ./gradlew bootRun
    ```
